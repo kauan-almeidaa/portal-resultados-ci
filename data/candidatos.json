@@ -40,6 +40,6 @@
       "name": "Eva Martins",
       "score": 47,
       "status": "LISTA_ESPERA"
-    }cat data/candidatos.json
-  ]
+      }
+    ]
 }
